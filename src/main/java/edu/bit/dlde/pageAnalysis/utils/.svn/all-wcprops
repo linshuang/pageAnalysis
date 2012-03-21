@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/lab/!svn/ver/401/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils
+END
+Measure.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/lab/!svn/ver/506/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/Measure.java
+END
+Utils4RedudantRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/lab/!svn/ver/505/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/Utils4RedudantRemove.java
+END
+TreeEditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/lab/!svn/ver/503/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/TreeEditDistance.java
+END
+Utils4Shrink.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/lab/!svn/ver/505/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/Utils4Shrink.java
+END
+Run.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/lab/!svn/ver/517/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/Run.java
+END
+Utils4GetBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/lab/!svn/ver/503/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/Utils4GetBlock.java
+END
+MeasureLegacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lab/!svn/ver/401/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/MeasureLegacy.java
+END
+Utils4MarkNum.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lab/!svn/ver/503/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/Utils4MarkNum.java
+END
+CustomizedCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/lab/!svn/ver/401/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/CustomizedCleaner.java
+END
+FileSimilarityComparor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/lab/!svn/ver/517/pageAnalysis/threshold-modify/src/main/java/edu/bit/dlde/pageAnalysis/utils/FileSimilarityComparor.java
+END

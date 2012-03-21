@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root href="www.qq.com">
+	r
+	<p1 a="a">
+		p
+		<c1 c="casda" hreF="www.qq.com">c1</c1>
+		<c1 c="casda" hreF="www.qq.com">c1</c1>
+		<c1 c="casda" hreF="www.qq.com">c1</c1>
+		<c1 c="casda" hreF="www.qq.com">c1</c1>
+		<c1 c="casda" hreF="www.qq.com">c1</c1>
+		<c2>this should be extracted? I think so! whynot? why not? why not?
+			why not? why not? why not? why not? why not? why not??????????????????????????????????????????</c2>
+		1
+	</p1>
+	<p2 b="123" hresF="www.qq.com">p2</p2>
+	<a href="http://t.xinmin.cn/index.php?m=reg&a=mobile" target="_blank"></a> 
+	oot
+</root>

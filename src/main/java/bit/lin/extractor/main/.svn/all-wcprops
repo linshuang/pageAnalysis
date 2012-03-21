@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lab/!svn/ver/337/density-based/src/main/java/bit/lin/extractor/main
+END
+ContentDensityBasedExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/lab/!svn/ver/504/density-based/src/main/java/bit/lin/extractor/main/ContentDensityBasedExtractor.java
+END
+LExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/337/density-based/src/main/java/bit/lin/extractor/main/LExtractor.java
+END
+SunfeiExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/516/density-based/src/main/java/bit/lin/extractor/main/SunfeiExtractor.java
+END
+LineDensityBasedExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/lab/!svn/ver/504/density-based/src/main/java/bit/lin/extractor/main/LineDensityBasedExtractor.java
+END
